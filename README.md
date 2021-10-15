@@ -3,6 +3,7 @@ I hold keen interests in computational modeling of cognitive processes, neuroima
 
 
 - 📫 How to reach me: Aswiderski@pitt.edu
+<br>
+<br>
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/alexswiderski/im-a-cm-g.svg)](https://www.codementor.io/@alexswiderski?refer=badge)
-
+[![Contact me on Codementor](https://www.codementor.io/m-badges/alexswiderski/find-me-on-cm-g.svg)](https://www.codementor.io/@alexswiderski?refer=badge)
