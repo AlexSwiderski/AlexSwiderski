@@ -8,8 +8,6 @@ While I am not working, I enjoy rock climbing and paddle boarding with my wife C
 - 📫 For any questions, interests in joining my lab, or participanting in my research please email at aswiderski@pitt.edu.
 
 
-![image](https://github.com/user-attachments/assets/472e8adf-bd08-47b7-80ab-4e54a7f2421d)
-
 Please see my [google scholar](https://scholar.google.com/citations?hl=en&user=NXzXn5EAAAAJ&view_op=list_works&sortby=pubdate) for a list of my publications. 
 
 
